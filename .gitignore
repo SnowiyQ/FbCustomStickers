@@ -1,0 +1,13 @@
+# Local release packages; the repository contains the source and packaging tool.
+/dist/
+/*.rar
+
+# Python tooling output.
+__pycache__/
+*.py[cod]
+
+# Editor/OS noise.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
